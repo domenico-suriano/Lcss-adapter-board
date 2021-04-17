@@ -1,4 +1,4 @@
-# Lcss-adapter-board
+# Lcss adapter board
 
 ![logo](https://github.com/domenico-suriano/Lcss-adapter-board/blob/main/images/logo.jpg)
 
